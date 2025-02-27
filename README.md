@@ -1,9 +1,4 @@
 # GUI Quiz App
-
-This is a simple **True/False Quiz App** built using Python and Tkinter. It fetches questions from an online trivia API and allows users to answer them using a graphical interface.
-
----
-
 ## How It Works
 
 1. The app **fetches 10 True/False questions** from the Open Trivia Database API.
