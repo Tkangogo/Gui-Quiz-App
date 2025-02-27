@@ -35,7 +35,7 @@
    ```
 3. **Run the app:**  
    ```sh
-   python ui_class.py
+   python main.py
    ```
 
 ---
