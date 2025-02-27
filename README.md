@@ -23,6 +23,7 @@
   - Updates the score  
   - Handles button clicks  
 - `false.png` & `true.png` → Images used for True/False buttons.
+- `main.py` → where the program starts. It initializes the quiz by importing the required modules and creating necessary objects.
 
 ---
 
